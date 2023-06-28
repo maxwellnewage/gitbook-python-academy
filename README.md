@@ -1,45 +1,23 @@
-# 👋 Welcome to A Product
+---
+description: Caminando por la senda del aprendizaje continuo
+---
 
-{% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+# 👋 Bienvenidos a la Academia de Python
 
-## Overview
+## Introducción
 
-Here are a couple of example overviews from products with really great docs:
+Te doy la bienvenida a uno de los proyectos más ambiciosos que armé hasta el momento: una guía exhaustiva y definitiva de Python que te permitirá convertirte en un desarrollador experimentado en las artes de la codificación.
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+Este proyecto nace como un heredero espiritual de mi [Diario de Python](https://dev.to/maxwellnewage/series/21362), el cual puedes encontrar en DEV.to. Por otro lado, gran parte de los ejemplos de código conforman mi [repositorio de Prácticas en Python](https://github.com/maxwellnewage/python-practices) que actualizo casi a diario, el cual vive y respira en GitHub.
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+Brindo todos estos contenidos de forma gratuita, y gran parte surge de mis experiencias como formador en distintas academias a lo largo del tiempo. Si quieres aportar al proyecto con nuevos módulos o correcciones de los existentes, puedes hacer un fork al [repositorio de GitHub que aloja este GitBook](https://github.com/maxwellnewage/gitbook-python-academy).
 
-## Quick links
+## Dinámica del contenido
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
-{% endcontent-ref %}
+La idea inicial de este libro es hacer uso de la teoría para volcar todo en la práctica. Es probable que encuentres más snippets de código que párrafos en ciertas secciones del mismo. Los desarrolladores se forjan mediante la prueba y error, conjunto de la experimentación y visualización de resultados. Este libro mantiene esa linea, enseñando las bases pero evitando aburrirte de pura teoría.
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
-{% endcontent-ref %}
+Por otro lado, existen tres formas de leerlo, y eso va a depender de tu experiencia actual con Python:
 
-## Get Started
-
-We've put together some helpful guides for you to get setup with our product quickly and easily.
-
-{% content-ref url="fundamentals/getting-set-up/" %}
-[getting-set-up](fundamentals/getting-set-up/)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
-[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
-{% endcontent-ref %}
+* **Lectura exhaustiva**: Si empiezas de cero, puedes leer cada sección de forma cronológica. Ten en cuenta que este libro se actualiza, por lo cual a veces tendrás que volver sobre algunas secciones porque pueden haber nuevos conceptos que te resulten de interés.
+* **Lectura selectiva**: Puede que tengas cierta experiencia y necesites aprender sobre una sección puntual, como por ejemplo "Excepciones". Esto es perfectamente posible, y no debes preocuparte por la continuidad, dado que cada sección es independiente y se pueden leer en el orden que te sea más cómodo.
+* **Lectura específica**: Esta forma podría aplicar a cualquier tipo de desarrollador, aunque no la recomiendo si recién estas empezando. Se trata de utilizar el buscador interno para escribir determinados términos como por ejemplo "string" y leer páginas salteadas. Es el método que seguramente termines aplicando si ya leíste todo mediante lectura exhaustiva y necesites refrescar algún tema puntual.
