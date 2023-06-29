@@ -1,7 +1,3 @@
----
-description: Caminando por la senda del aprendizaje continuo
----
-
 # 👋 Bienvenidos a la Academia de Python
 
 ## Introducción

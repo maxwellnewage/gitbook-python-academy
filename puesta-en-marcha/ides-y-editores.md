@@ -12,7 +12,7 @@ En resumen, mientras que un editor de texto es una herramienta básica para edit
 
 ## PyCharm
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Editor abierto</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Editor abierto</p></figcaption></figure>
 
 [Tengo un curso de Udemy](https://www.udemy.com/course/desarrollo-de-sitios-web-con-python-3-con-django/?referralCode=A491B0944C634BFAA48C) donde explico cómo desarrollar web utilizando Python y Django; y en el mismo me centro en trabajar con el IDE [PyCharm](https://www.jetbrains.com/es-es/pycharm/). La razón simplemente radica en que me sentía cómodo con este editor. El problema es que tiene [dos versiones](https://www.jetbrains.com/products/compare/?product=pycharm\&product=pycharm-ce): una paga (Profesional) y otra gratuita (Comunitaria). Yo estaba usando la comunitaria, pero encontré muchas limitaciones marcadas que me hicieron decantar por terminar utilizando [Visual Studio Code](https://code.visualstudio.com/).
 
@@ -20,15 +20,15 @@ Sin embargo, lo considero una excelente herramienta para desarrollar en Python, 
 
 ## Visual Studio Code
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Editor abierto</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Editor abierto</p></figcaption></figure>
 
 Probablemente el editor de código más amado del planeta. VSC se destaca por su flexibilidad a la hora de preparar un entorno acorde a las necesidades que tengamos. Recomiendo descargarlo desde su [sitio oficial](https://code.visualstudio.com/):
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Sitio oficial VSC</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Sitio oficial VSC</p></figcaption></figure>
 
 Es importante aclarar que el sitio detecta el sistema operativo, por lo cual si estas utilizando Linux o Mac, aparecerán opciones distintas. Una vez descargado (en el caso de Windows), es cuestión de darle al botón "Siguiente" hasta finalizar.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Instalador VSC</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Instalador VSC</p></figcaption></figure>
 
 Una vez finalizada la instalación y abierto el edtiro, recomiendo instalar una serie de extensiones que nos facilitarán la vida (escribir los IDs en la sección Extensions):
 
