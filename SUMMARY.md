@@ -2,10 +2,11 @@
 
 * [👋 Bienvenidos a la Academia de Python](README.md)
 
-## Overview
+## Puesta en Marcha
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [💡 Qué es Python](puesta-en-marcha/que-es-python.md)
+* [✨ Instalación](puesta-en-marcha/instalacion.md)
+* [🐝 IDEs y Editores](puesta-en-marcha/ides-y-editores.md)
 
 ## Product Guides
 

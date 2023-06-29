@@ -21,3 +21,13 @@ Por otro lado, existen tres formas de leerlo, y eso va a depender de tu experien
 * **Lectura exhaustiva**: Si empiezas de cero, puedes leer cada sección de forma cronológica. Ten en cuenta que este libro se actualiza, por lo cual a veces tendrás que volver sobre algunas secciones porque pueden haber nuevos conceptos que te resulten de interés.
 * **Lectura selectiva**: Puede que tengas cierta experiencia y necesites aprender sobre una sección puntual, como por ejemplo "Excepciones". Esto es perfectamente posible, y no debes preocuparte por la continuidad, dado que cada sección es independiente y se pueden leer en el orden que te sea más cómodo.
 * **Lectura específica**: Esta forma podría aplicar a cualquier tipo de desarrollador, aunque no la recomiendo si recién estas empezando. Se trata de utilizar el buscador interno para escribir determinados términos como por ejemplo "string" y leer páginas salteadas. Es el método que seguramente termines aplicando si ya leíste todo mediante lectura exhaustiva y necesites refrescar algún tema puntual.
+
+Si consideras que existen otros métodos más efectivos, o tienes el tuyo y quieres compartirlo, no dudes en escribirme por [LinkedIn](https://www.linkedin.com/in/maximilianoburgos/) o [Twitter](https://twitter.com/maxwellnewage).
+
+## Técnica de estudio
+
+Escribí un artículo muy detallado sobre distintas [técnicas de estudio que aplico](https://dev.to/maxwellnewage/hoy-te-voy-a-contar-mis-propios-metodos-de-estudio-4cjl), y también otro sobre [enseñanza](https://dev.to/maxwellnewage/el-desafio-de-la-educacion-en-sistemas-55pm). Te aconsejo leer ambos para tener una perspectiva más interesante y darte opciones nuevas a la hora de sentarte a estudiar o impartir tus propias clases.
+
+Pero en estos artículos no mencioné un detalle relevante con respecto a este libro: los tiempos de estudio. Esto puede ser relativo a cada persona, pero si elegiste la **lectura exhaustiva**, te recomiendo dedicar un mínimo de **dos horas** al día.
+
+Este tiempo implica estudio o repaso de teoría, e implementación de los conceptos aprendidos mediante la práctica. Puede que esto varíe a medida que vayas asimilando el contenido, pero es importante que la parte práctica sea predominante a la teórica. Esto significa que no te pases hora y media leyendo; para luego escribir media hora de código. Quizá en el futuro te termine tomando más tiempo la planificación que el código en sí, pero en el período de aprendizaje, lo ideal es centrarte en practicar la mayoría del tiempo.&#x20;
