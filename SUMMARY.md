@@ -7,6 +7,7 @@
 * [💡 Qué es Python](puesta-en-marcha/que-es-python.md)
 * [✨ Instalación](puesta-en-marcha/instalacion.md)
 * [🐝 IDEs y Editores](puesta-en-marcha/ides-y-editores.md)
+* [🚀 Creación de un Proyecto](puesta-en-marcha/creacion-de-un-proyecto.md)
 
 ## Product Guides
 
