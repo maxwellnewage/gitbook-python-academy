@@ -28,7 +28,7 @@ code .
 
 El comando `code` inicia VSC, y el parámetro punto indica que lo abra en la misma carpeta donde estamos parados, osea `mi_proyecto`.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>VSC Abierto</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>VSC Abierto</p></figcaption></figure>
 
 Ahora crearemos nuestro primer archivo llamando main.py, el cual contendrá este script:
 
